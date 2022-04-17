@@ -1,7 +1,7 @@
 # School_District_Analysis
 **1) Overview/ Purpose:**
   
-   The purpose of this analysis was to be able to find/ locate specific elements in multiple databases and manipulate them to answer specific questions that we had based on the information in the databases. During the module we spent our time summarizing school spending, average scores for math and reading, school size, and scores by school type. In the challenege we were to expand on this knowledge and seperate the students scores that were only in 9th grade, rerun the school district analysis and compare how much the information was changed due to changing information in our databases. We showed how much Thomas high school's % overall passing grades were increased once the 9th grade was nulled and how that later affected the whole district summary report. 
+   The purpose of this analysis was to be able to find/ locate specific elements in multiple CSV files and manipulate them to answer specific questions that we had based on the information in each specific file. During the module we spent our time summarizing school spending, average scores for math and reading, school size, and scores by school type. In the challenege we were to expand on this knowledge and seperate the students scores that were only in 9th grade at Thomas High School, re-run the school district analysis and compare how much the information was changed due to changing information in our databases. We showed how much Thomas high school's % overall passing grades were increased once the 9th grade was nulled and how that later affected the whole district summary report. 
    
    **Results**
    
