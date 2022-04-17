@@ -22,6 +22,11 @@ After
 
 Replacing the scores has affected Thomas High School's performance against the other schools in a very positive way. Because of this their overall passing percentage has increased and actually gave them a spot at second place in the top 5 performing schools list. Before changing the grades Thomas High School was right in the middle when it came to how well they performed compared to the other schools in this data frame.
 
-Replacing ninth grade scores affected the math and reading scored by grade
-   
+Replacing ninth grade scores affected the math and reading scored by grade because the total number of students that are now being calculated for this grade has been decreased since we got rid of ninth graders scores at thomas high school. For this analysis breakdown we seperated the grades by school names along with their average math and reading grades. So particularly, while getting rid of 9th grade scores at Thomas high school increased the overall passing percentage of Thomas high schools grades, for each grade seperately it did not affect the other grades as much since we took those averages based on class size and not overall school size. When looking for 10th grade average math score we took the math scores from only the 10th grade and made calculations based on 10th grade student size at Thomas high school and not for the entire school. 
+
+Scores by school Spending
+
+Scores by school size
+
+Scores by school type
    
